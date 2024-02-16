@@ -1,41 +1,27 @@
-# Hotel Line Inventory App
+# Hotelinventoryapp
 
-This repository contains the code for a Hotel Line Inventory App developed using Angular.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
-## Description
+## Development server
 
-The Hotel Line Inventory App is designed to streamline inventory management processes for hotels. It provides a user-friendly interface for hotel staff to manage and track inventory items efficiently. The app allows users to add, update, delete, and view inventory items, as well as generate reports for analysis.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Features
+## Code scaffolding
 
-- **Add Inventory Items:** Easily add new inventory items with relevant details.
-- **Update Inventory:** Update existing inventory items with changes in quantity, price, etc.
-- **Delete Inventory:** Remove obsolete or unused inventory items from the system.
-- **View Inventory:** Display a list of all inventory items with their respective details.
-- **Generate Reports:** Generate reports for inventory analysis and decision-making purposes.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Technologies Used
+## Build
 
-- Angular
-- HTML/CSS
-- JavaScript/TypeScript
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Getting Started
+## Running unit tests
 
-To get a local copy up and running follow these simple steps:
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies using npm or yarn: `npm install`.
-4. Run the development server: `ng serve`.
-5. Open your browser and navigate to `http://localhost:4200/`.
+## Running end-to-end tests
 
-## Contributing
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss the changes you wish to make.
+## Further help
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
